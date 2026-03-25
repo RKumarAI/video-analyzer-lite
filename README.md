@@ -1,4 +1,4 @@
-#  Video Analyzer Lite
+#  Video Analyzer
 
 Real-time gender & age prediction from webcam or video file.
 
